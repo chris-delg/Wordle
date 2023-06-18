@@ -1,1 +1,5 @@
+# build folders and files
 nbproject/
+build/
+dist/
+Makefile
